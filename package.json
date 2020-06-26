@@ -1,0 +1,15 @@
+{
+  "name": "helloworldnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@codehub.sva.de:nlanghor/helloworldnode.git"
+  },
+  "author": "nico.langhorst@sva.de",
+  "license": "ISC"
+}
