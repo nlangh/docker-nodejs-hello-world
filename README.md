@@ -12,3 +12,7 @@ You can run the server either with npm:
 
 or as docker container:
 `docker build -t helloworldnode . && docker run -p 3000:8080 helloworldnode`
+
+## Access to the application
+
+The application can be accessed at `http://localhost:3000/`.
