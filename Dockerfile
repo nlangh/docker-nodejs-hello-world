@@ -7,11 +7,11 @@ WORKDIR /usr/src/app
 COPY package*.json ./
 RUN npm install
 
-# copy app soruce to container
+# copy app source code
 COPY . .
 
 # expose port 8080
 EXPOSE 8080
 
 # run app
-CMD [ "node", "index.js" ]
+CMD [ "node", "server.js" ]
