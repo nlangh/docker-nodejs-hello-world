@@ -4,7 +4,11 @@
   "description": "simple dockerized node server",
   "main": "server.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "PORT=3000 node server.js"
+=======
+    "start": "node server.js"
+>>>>>>> master
   },
   "repository": {
     "type": "git",
