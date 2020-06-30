@@ -12,7 +12,4 @@
   },
   "author": "nlangh",
   "license": "MIT",
-  "dependencies": {
-    "dotenv": "8.2.0"
-  }
 }

@@ -21,10 +21,10 @@ Install the dependencies.
 npm install
 ```
 
-Start the server either directly with Node or the predefined npm script.
+Start the server either directly with Node or the predefined npm script. 
 
 ```
-node server.js
+PORT=3000 node server.js
 ```
 
 or
