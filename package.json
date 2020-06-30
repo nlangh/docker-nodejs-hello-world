@@ -11,5 +11,8 @@
     "url": "https://github.com/nlangh/helloworldnode"
   },
   "author": "nlangh",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "8.2.0"
+  }
 }

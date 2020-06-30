@@ -6,4 +6,4 @@ http.createServer(function (request, response) {
     response.end("Hello World!");
 }).listen(port);
 
-console.log("server running")
+console.log("server running: http://localhost:%d", port)
