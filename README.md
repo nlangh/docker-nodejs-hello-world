@@ -49,7 +49,6 @@ Start the server by running a container with build image.
 docker run -p 3000:8080 helloworldnode
 ```
 
----
 > **NOTE:** that I am mapping container port 8080 to port 3000 here, because it is most likely not used by another application. You can change it at any time.
 
 ## Access to the application
