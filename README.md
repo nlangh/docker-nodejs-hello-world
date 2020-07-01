@@ -1,6 +1,6 @@
 # Docker Node.js Hello World!
 
-This project contains a simple vanilla Node.js application that responds with "Hello World! and OK 200"
+This project contains a simple vanilla Node.js application that responds with "Hello World!" and OK 200
 
 ## Prerequisite
 
