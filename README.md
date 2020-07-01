@@ -35,7 +35,7 @@ npm start
 
 > **NOTE:** that I use port 3000 here because it is most likely not used by any other application. Feel free to change it
 
-## Setup with Docker
+### Setup with Docker
 
 build the Docker image where `helloworldnode` could be any name.
 
